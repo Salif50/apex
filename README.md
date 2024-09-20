@@ -1,4 +1,4 @@
-# Configuration et installation oracle db, oracle apex, rods
+# Configuration et installation oracle db, oracle apex, ords sur windows
 ## **Table des Matières**
 
 1. [Prérequis](#1-prérequis)
