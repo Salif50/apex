@@ -2,6 +2,11 @@
 ```bash
 ords --config /chemin/vers/config serve
 ```
+## VERIFICATION DE PORT
+```bash
+netstat -an | findstr :PORT
+```
+
 
 Cependant, avant de pouvoir utiliser cette commande, vous devez créer et configurer ce répertoire de configuration. Voici une procédure détaillée pour **obtenir et configurer le dossier `config`** pour ORDS :
 
